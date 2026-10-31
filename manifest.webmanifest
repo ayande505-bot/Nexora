@@ -1,0 +1,17 @@
+{
+  "name": "Nexora",
+  "short_name": "Nexora",
+  "description": "International professional directory",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b63ce",
+  "icons": [
+    {
+      "src": "/nexora-logo.jpeg",
+      "sizes": "948x1000",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
